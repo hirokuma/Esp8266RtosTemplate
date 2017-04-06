@@ -1,0 +1,4 @@
+ESP8266 RTOS SDK v2.0 template
+====
+* SmartConfig starts if status isn't connect in 30seconds.
+
